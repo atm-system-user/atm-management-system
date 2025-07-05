@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/atm-management-system/static/css/main.a026a37b.css",
-    "main.js": "/atm-management-system/static/js/main.05e387b6.js",
+    "main.js": "/atm-management-system/static/js/main.d695d2d9.js",
     "index.html": "/atm-management-system/index.html",
     "main.a026a37b.css.map": "/atm-management-system/static/css/main.a026a37b.css.map",
-    "main.05e387b6.js.map": "/atm-management-system/static/js/main.05e387b6.js.map"
+    "main.d695d2d9.js.map": "/atm-management-system/static/js/main.d695d2d9.js.map"
   },
   "entrypoints": [
     "static/css/main.a026a37b.css",
-    "static/js/main.05e387b6.js"
+    "static/js/main.d695d2d9.js"
   ]
 }
